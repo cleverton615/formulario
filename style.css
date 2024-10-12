@@ -27,7 +27,7 @@ body {
     font-size: 1em;
     color: #59429d;
     margin-left: 36%;
-    margin-top: 2%;
+    margin-top: 1%;
     justify-content: center;
 }
 
@@ -81,9 +81,7 @@ button {
     text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
     position: absolute;
     top: 70%;
-    left: 55%;
-    margin-right: -50%;
-    transform: translate(-50%, -50%);
+    left: 45%;
 }
 
 button:hover {
